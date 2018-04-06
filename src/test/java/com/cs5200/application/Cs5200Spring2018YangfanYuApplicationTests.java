@@ -1,4 +1,4 @@
-package com.cs5200.cs5200spring2018yangfanyu;
+package com.cs5200.application;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

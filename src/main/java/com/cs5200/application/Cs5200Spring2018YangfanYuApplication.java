@@ -1,4 +1,4 @@
-package com.cs5200.cs5200spring2018yangfanyu;
+package com.cs5200.application;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
